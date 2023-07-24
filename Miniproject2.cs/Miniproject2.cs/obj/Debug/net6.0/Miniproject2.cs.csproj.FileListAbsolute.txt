@@ -1,0 +1,15 @@
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\bin\Debug\net6.0\Miniproject2.cs.exe
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\bin\Debug\net6.0\Miniproject2.cs.deps.json
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\bin\Debug\net6.0\Miniproject2.cs.runtimeconfig.json
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\bin\Debug\net6.0\Miniproject2.cs.dll
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\bin\Debug\net6.0\Miniproject2.cs.pdb
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.csproj.AssemblyReference.cache
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.AssemblyInfoInputs.cache
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.AssemblyInfo.cs
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.dll
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\refint\Miniproject2.cs.dll
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.pdb
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\Miniproject2.cs.genruntimeconfig.cache
+C:\Users\Suganya\source\repos\Miniproject2.cs\Miniproject2.cs\obj\Debug\net6.0\ref\Miniproject2.cs.dll
